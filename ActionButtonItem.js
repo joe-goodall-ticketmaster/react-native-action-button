@@ -204,7 +204,6 @@ const styles = StyleSheet.create({
     paddingVertical: isAndroid ? 2 : 3,
     paddingHorizontal: 8,
     borderRadius: 3,
-    borderWidth: StyleSheet.hairlineWidth,
     borderColor: "#eee",
     backgroundColor: "white",
     height: TEXT_HEIGHT
