@@ -203,7 +203,6 @@ const styles = StyleSheet.create({
     position: "absolute",
     paddingVertical: isAndroid ? 2 : 3,
     paddingHorizontal: 8,
-    borderRadius: 3,
     borderColor: "#eee",
     backgroundColor: "white",
     height: TEXT_HEIGHT
