@@ -369,7 +369,7 @@ ActionButton.defaultProps = {
   buttonColor: "rgba(0,0,0,1)",
   buttonTextStyle: {},
   buttonText: "+",
-  spacing: 20,
+  spacing: 32,
   outRangeScale: 1,
   autoInactive: true,
   onPress: () => {},
