@@ -211,6 +211,7 @@ const ActionButton = props => {
       // backgroundColor: 'purple',
       justifyContent: verticalOrientation === "up" ? "flex-end" : "flex-start",
       paddingTop: props.verticalOrientation === "down" ? props.spacing : 0,
+      paddingBottom: 12,
       zIndex: props.zIndex
     };
 
